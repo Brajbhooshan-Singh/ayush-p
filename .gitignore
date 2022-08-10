@@ -1,0 +1,7 @@
+# npm
+node/node_modules
+node/package-lock.json
+node/.env
+react/node_modules
+react/package-lock.json
+
